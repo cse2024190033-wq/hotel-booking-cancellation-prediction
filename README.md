@@ -97,9 +97,13 @@ Hotel_Booking_Cancellation_Prediction.ipynb
 - `Hotel_Booking_Cancellation_Prediction.ipynb`
 - `requirements.txt`
 - `README.md`
-- `Hotel_Booking_Cancellation_Presentation.pptx`
+- `Hotel_Booking_Cancellation_Presentation.pdf`
 
 ---
+
+## Demo
+
+Use Platform Kiro to dmeo
 
 ## Author
 - **Lecturer** Mr. HIM Soklong
