@@ -102,7 +102,7 @@ Hotel_Booking_Cancellation_Prediction.ipynb
 ---
 
 ## Author
-
-- **Name:** Your Name
+- **Lecturer** Mr. HIM Soklong
+- **Name:** Sothea Rach, Thun MengThean, Srey Tethtebveboth
 - **Course:** Machine Learning
-- **University:** Your University
+- **University:** Phnom Penh International University
