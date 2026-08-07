@@ -103,7 +103,7 @@ Hotel_Booking_Cancellation_Prediction.ipynb
 
 ## Demo
 
-Use Platform Kiro to dmeo
+Use Tool Kiro to dmeo
 
 ## Author
 - **Lecturer** Mr. HIM Soklong
